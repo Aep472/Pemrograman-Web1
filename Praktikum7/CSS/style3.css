@@ -1,0 +1,144 @@
+div {
+    border: 2px solid black;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.satu {
+    position: absolute;
+    background-color: yellow;
+    width: 20%;
+    height: 80px;
+    line-height: 80px;
+}
+.dua {
+    background-color: tomato;
+    width: 75%;
+    margin-left: auto;
+    height: 80px;
+    line-height: 80px;
+}
+.tiga {
+    background-color: green;
+    width: 20%;
+    position: absolute;
+    height: 400px;
+    line-height: 400px;
+}
+.empat {
+    background-color: gainsboro;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    height: 400px;
+    line-height: 400px;
+}
+.lima {
+    background-color: aqua;
+    width: 20%;
+    margin-left: auto;
+    height: 400px;
+    line-height: 400px;
+}
+.enam {
+    background-color:blue;
+    height: 60px;
+    line-height: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .container1{
+    display: flex;
+    margin: 1em;
+    text-align: center;
+}
+.satu{
+    background-color: yellow;
+    width: 20%;
+    height: 150px;
+    line-height: 150px;
+    border:1px solid black ;
+    margin-right: 2%;
+}
+.dua{
+    background-color: rgb(231, 52, 52);
+    width: 78%;
+    height: 150px;
+    line-height: 150px;
+    border: 1px solid black;
+}
+.container2{
+    display: flex;
+    margin: 1em;
+    text-align: center;
+}
+.tiga{
+    background-color: rgb(77, 238, 77) ;
+    width: 20%;
+    height:700px ;
+    line-height: 700px;
+    border: 1px solid black;
+    margin-right: 2%;
+}
+.empat{
+    background-color:rgb(101, 99, 99) ;
+    width: 58%;
+    height:700px ;
+    line-height: 700px;
+    border: 1px solid black;
+    margin-right: 2%;
+}
+.lima{
+    background-color: rgb(29, 179, 229);
+    width: 18%;
+    height: 700px;
+    line-height: 700px;
+    border: 1px solid black;
+}
+.container3{
+    background-color: rgb(4, 37, 147);
+    height: 150px;
+    border: 1px solid black;
+    margin: 1em;
+} */
